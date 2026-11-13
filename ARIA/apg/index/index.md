@@ -51,9 +51,9 @@ lang: en
 
   <div>
     
-    <h2>About the Index</h2>
+    <h2>About the Index 1</h2>
     <p>
-      This page includes a list of all ARIA design pattern examples indexed
+      This page incleeudes a list of all ARIA design pattern examples indexed
       either by role or by ARIA properties and states.
     </p>
     <ul>
